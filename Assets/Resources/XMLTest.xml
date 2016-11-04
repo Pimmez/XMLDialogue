@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<DialogueCollection>
+  <Dialogue>
+    <Character name="Pim">
+      <Name>Pim</Name>
+      <Greetings>Hallo
+      
+          <Response next="1">Uhm Hallo?</Response>
+          <Response next="2">(Stilte)</Response>
+
+      </Greetings>
+    </Character>
+  </Dialogue>
+</DialogueCollection>
