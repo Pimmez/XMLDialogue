@@ -4,10 +4,13 @@
   <Dialogue>
     <Character name="Pim">
       <Name>Pim</Name>
-      <Greetings>Hallo
+      <Greetings>Goodday To You sir!
       
-          <Response next="1">Uhm Hallo?</Response>
-          <Response next="2">(Stilte)</Response>
+          <Response next="1">WooW You Talking To Me?</Response>
+          <Response next="2">Well Good Day To You To Sir!</Response>
+          <Response next="3">How Fascinating That You Are So Happy on This Particulair Day</Response>
+          <Response next="4">??(Walk Away From Him)??</Response>
+
 
       </Greetings>
     </Character>
